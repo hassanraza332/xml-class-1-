@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE students[
+<!ELEMENT students (student+)>
+<!ELEMENT student (id,age,name,subject)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+
+]>
+
+
+<students>
+
+<student>
+<id>1</id>
+<name>ali</name>
+<age>25</age>
+<subject>pst</subject>
+</student>
+
+<student>
+<id>12</id>
+<name>aliyan</name>
+<age>35</age>
+<subject>physics</subject>
+</student>
+
+
+</students>
