@@ -34,3 +34,46 @@
 //{
   //  console.log("odd")
 //}
+
+//var mode =prompt ("enter your mode ")
+//var out = ""
+//if (mode==="light") 
+//  {
+//out= "white"
+//}
+
+//else if (mode==="dark")
+  // {
+//out= "black"
+//}
+//else{
+  //out = "green"
+//}
+//console.log(out)
+
+//var arr = ["ali","obaid","faran","ahsan"];
+//console.log(arr);
+//arr.push("hamza");
+//console.log(arr)
+//arr.pop();
+//console.log(arr);
+//var str = arr.toString();
+//console.log(str);
+
+//array methods : push,pop,tostring,concat,unshift,shift,slice,splice
+//var marvelheroes = ["thor","spiderman",]
+//var dcheroes = ["batman","superman"]
+//let heroes = marvelheroes.concat(dcheroes);
+//console.log(heroes)
+//heroes.shift("batman")
+//heroes.unshift("batman")
+
+//function
+
+//function msg ()
+//{
+  // console.log("hello");
+//}  
+
+//msg();
+
